@@ -13,9 +13,9 @@ from twilio.rest import Client
 import certifi
 
 #conta Twilio
-account_sid = 'ACc0811a1d0db1ca912adaf0c3d2b9264d'
+account_sid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 #token twilio
-auth_token = '61e64975f2c0afb968b6ec8d1a2c6016'
+auth_token = 'xxxxxxxxxxxxxxxxx'
 client = Client(account_sid, auth_token)
 
 
